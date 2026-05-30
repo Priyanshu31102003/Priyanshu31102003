@@ -27,3 +27,10 @@ My goal is to optimize deep learning pipelines across mainstream open-source eco
 - **Ecosystem Contributions:** Working closely with open-source tools driving the future of PyTorch-compatible model deployment and autonomous agents.
 
 ⚡ *Fun fact: I build robots and optimize code when the rest of the world is sleeping. Caffeinated kernels run faster!*
+
+
+---
+
+### 🤝 Connect with me:
+📧 **Email:** jr0061738@gmail.com  
+💼 **LinkedIn:** https://www.linkedin.com/in/priyanshusingh003106/
