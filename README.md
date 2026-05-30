@@ -1,4 +1,4 @@
-# Hi there, I'm Priyanshu (Joy) Singh 👋
+# Hi there, I'm Priyanshu Singh 👋
 
 I am a B.Tech student specializing in **Artificial Intelligence & Machine Learning (AIML)**, with a hardcore passion for **Robotics, Autonomous Systems, and High-Performance Hardware-Aware AI Infrastructure**. 
 
